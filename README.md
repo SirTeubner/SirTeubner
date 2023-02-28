@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning how to build 90's in Fortnite.
-- 🔭 I’m currently working on reaching lvl 200 in Fortnite.
-- 🤔 I’m looking for help with reaching lvl 200 in Fortnite.
-
-Pro Gamer from Austria using Git for Marketing. My friends are jealous of me because my Edits in Fortnite are much cleaner than their Edits.
+- Student at the HAK Zell am See
 <!--
 **SirTeubner/SirTeubner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
