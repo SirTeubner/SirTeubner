@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirteubner&show_icons=true&locale=en" alt="sirteubner" /></p>
 
-<img align="right" alt="Coding" width="360" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqYdU2MbNIvOsKb4QtVqKrNMDGuFzfxFn09rRvcthpGKJ7sZHd1DWpbWSurLPwRu61-A&usqp=CAU">
+<img align="right" alt="Coding" width="330" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqYdU2MbNIvOsKb4QtVqKrNMDGuFzfxFn09rRvcthpGKJ7sZHd1DWpbWSurLPwRu61-A&usqp=CAU">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirteubner&" alt="sirteubner" /></p>
