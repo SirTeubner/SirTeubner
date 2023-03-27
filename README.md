@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **basic programming skills**
 
-<img align="right" alt="Coding" width="400" src="https://bestanimations.com/media/homer/1324188187homer-simpson-animated-gif-4.gif">
+<img align="right" alt="Coding" width="380" src="https://bestanimations.com/media/homer/1324188187homer-simpson-animated-gif-4.gif">
 
 - 🌱 I’m currently learning **C#, html, css**
 
@@ -27,8 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqYdU2MbNIvOsKb4QtVqKrNMDGuFzfxFn09rRvcthpGKJ7sZHd1DWpbWSurLPwRu61-A&usqp=CAU">">
-
+<img align="right" alt="Coding" width="380" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqYdU2MbNIvOsKb4QtVqKrNMDGuFzfxFn09rRvcthpGKJ7sZHd1DWpbWSurLPwRu61-A&usqp=CAU">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirteubner&show_icons=true&locale=en" alt="sirteubner" /></p>
 
