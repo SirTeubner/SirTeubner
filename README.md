@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://bestanimations.com/media/homer/1324188187homer-simpson-animated-gif-4.gif">
 
-- 🌱 I’m currently learning **C#, html, css**
+- 🌱 I’m currently learning **C#, html, css, Java**
 
 - 💬 Ask me about **anything, i probably don't know the anwser**
 
