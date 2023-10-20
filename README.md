@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C#, html, css, Java**
 
-- 💬 Ask me about **anything, i probably don't know the anwser**
+- 💬 Ask me about **anything, I probably don't know the anwser**
 
 - 📫 How to reach me **noahthomasteubner@gmail.com**
 
