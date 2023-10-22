@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **anything, I probably don't know the anwser**
 
-- 📫 How to reach me **noahthomasteubner@gmail.com**
+- 📫 Don't try to contact me. I won't answer you!
 
 
 
